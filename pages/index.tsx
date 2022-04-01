@@ -25,7 +25,7 @@ const Home: NextPage = () => {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-            New Header
+            Header
           </Typography>
           <Button color="inherit">Logout</Button>
         </Toolbar>
